@@ -1,5 +1,6 @@
 This demo helps you learn [Flux architecture](https://facebook.github.io/flux/). It is inspired by Andrew Ray's great article [Flux For Stupid People](http://blog.andrewray.me/flux-for-stupid-people/).
 
+
 ## What is Flux?
 
 Flux, invented by Facebook, is an architecture pattern for building client-side web applications.
